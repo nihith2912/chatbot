@@ -115,6 +115,7 @@ Bot: Python is a high-level programming language known for its simplicity and re
 ## Author
 
 Nihith
+Web Developer || Python Developer || AI Enthusiast
 
 ## License
 
@@ -126,6 +127,7 @@ If you find this project useful, please consider giving it a star on GitHub. It 
 
 ⭐ Star the repository here:
 
-[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/nihith2912/chatbot.git)
+[You can star the project here!!!](https://github.com/nihith2912/chatbot.git)
+
 Thank you for your support!
 
