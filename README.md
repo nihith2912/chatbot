@@ -119,3 +119,13 @@ Nihith
 ## License
 
 This project is licensed under the MIT License.
+
+## ⭐ Support the Project
+
+If you find this project useful, please consider giving it a star on GitHub. It helps increase visibility and motivates further development.
+
+⭐ Star the repository here:
+
+[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/nihith2912/chatbot.git)
+Thank you for your support!
+
